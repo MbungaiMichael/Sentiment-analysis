@@ -21,6 +21,26 @@ The Sentiment Analysis project utilizes a dataset comprising text entries, each 
 * Temporal Trends: There was a noticeable increase in positive sentiments during holiday seasons, implying potential correlations between time periods and customer moods.
 * Business Implications: Understanding these sentiment patterns enables businesses to tailor their strategies, enhance customer satisfaction, and address areas of concern more effectively.
 
-## For Neutral customers;
+### For Neutral customers
 * Give the neutral customers a reason to stay by offering discounts, rewards, or early access to new products.
 * Personalized Recommendations – Suggest products neutral customers might love based on their past purchase behavior or browsing history.
+  
+### For Negative customers
+* Based on customer's history with a particular product, take necessary measures like forwarding apology emails during late deliveries.
+* advertise products also at discount prices, promotions or grant early acess to products.
+
+### For Positive customers
+* Send gifts yearly to thank them for their loyalty towards our product.
+* Similarly, forward birthday gifts, messages on their birthdays.
+
+
+
+
+
+
+
+
+
+
+
+
